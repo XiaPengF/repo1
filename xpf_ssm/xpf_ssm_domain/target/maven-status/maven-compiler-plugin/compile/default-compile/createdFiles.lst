@@ -1,0 +1,8 @@
+com\xpf\domain\UserInfo.class
+com\xpf\domain\Product.class
+com\xpf\domain\SysLog.class
+com\xpf\domain\Orders.class
+com\xpf\domain\Role.class
+com\xpf\domain\Permission.class
+com\xpf\domain\Member.class
+com\xpf\domain\Traveller.class

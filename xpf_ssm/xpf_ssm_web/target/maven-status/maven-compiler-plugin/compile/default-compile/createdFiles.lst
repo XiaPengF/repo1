@@ -1,0 +1,7 @@
+com\xpf\controller\RoleController.class
+com\xpf\controller\PermissionController.class
+com\xpf\controller\LogAop.class
+com\xpf\controller\SysLogController.class
+com\xpf\controller\UserController.class
+com\xpf\controller\ProductController.class
+com\xpf\controller\OrdersController.class
